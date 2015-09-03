@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Samuel Hermann
+description: Notes & Thoughts
+meta_description: "Samuel's Jekyll Site, Blogging about Tech & Thoughts"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'https://samuelhermann.github.io/'
+google_analytics: 'UA-67141308-1'
+disqus: true
+disqus_shortname: 'samuelhermann'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://samuelhermann.github.io/'
+author:         'Samuel Hermann'
+authorTwitter:  'samuelhermann'
 
 permalink:       /:year/:title/
 
